@@ -1,0 +1,7 @@
+--> Every C program requires a main() function (Use of more than one main() is illegal). The place is where the program execution begins.
+--> The execution of a function begins at the opening brace of the function and ends at the corrosponding closing brace.
+--> Program statements in a C language must end with a semicolon.
+--> All variables must be declared for their types before they are used in the program.
+--> Make sure to include the header files using #include directive when the program refers to special names and functions that it does not define.
+--> When braces are used to group the statements , make sure that the opening brace has a corrosponding closing brace.
+--> Use of appropriate comments in proper places increases readability and understandability of the program and helps users in debugging and testing.
